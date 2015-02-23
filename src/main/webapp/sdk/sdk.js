@@ -13,10 +13,10 @@
 */
 (function(){
     var f = {
-        version: "1.2.3",
-        u: "/flyer/",
-        restUrl: "/flyer/",
-        folder: null,
+        version: "1.2.3", //flyer version
+        u: "/flyer/", //flyer directory
+        restUrl: "/flyer/", //rest url
+        folder: null, //default folder
         s: [],
         captions: {
             Flyer: "Flyer|Flyer",
